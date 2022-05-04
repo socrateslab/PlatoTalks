@@ -4,7 +4,7 @@ Project https://github.com/socrateslab/PlatoTalks/projects/1
 
 Discussions https://github.com/socrateslab/PlatoTalks/discussions
 
-Motivation https://github.com/socrateslab/PlatoTalks/discussions/5
+Motivation https://github.com/socrateslab/PlatoTalks/discussions/1
 
 ## 1. Start with classic pieces
 - https://github.com/socrateslab/PlatoTalks/discussions/3
