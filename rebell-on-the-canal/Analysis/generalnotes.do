@@ -1,0 +1,6 @@
+global note_sample "The sample consists of 536 counties in the six provinces around the canal from 1650 to 1911. "
+global note_dep "The dependent variable is the inverse hyperbolic sine transformation of the number of rebellions normalized by 1600 population. "
+global note_along "$ AlongCanal $ is an indicator that equals one if the county is adjacent to the canal. "
+global note_post "$ Post $ is an indicator that equals one in and after 1826. "
+global note_std "Standard errors in parentheses are clustered at the county level. "
+global note_conley "Standard errors in square brackets are Conley standard errors robust for spatial correlation, assuming a cut-off window of 500 km and a serial correlation of 262 years. "
