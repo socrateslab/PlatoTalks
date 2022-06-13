@@ -16,3 +16,7 @@ Motivation https://github.com/socrateslab/PlatoTalks/discussions/1
 - Setup https://socrateslab.github.io/PlatoTalks/rebell-on-the-canal/1-setup-stata17.html
 - Cleaning https://socrateslab.github.io/PlatoTalks/rebell-on-the-canal/2-data-cleaning.html
 - Baseline Model https://socrateslab.github.io/PlatoTalks/rebell-on-the-canal/3-table3-baseline.html
+
+## 3. ARFIMA-MLM
+
+- https://socrateslab.github.io/PlatoTalks/ARFIMA-MLM/ObamaEffect.html
