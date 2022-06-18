@@ -20,3 +20,4 @@ Motivation https://github.com/socrateslab/PlatoTalks/discussions/1
 ## 3. ARFIMA-MLM
 
 - https://socrateslab.github.io/PlatoTalks/ARFIMA-MLM/ObamaEffect.html
+- https://socrateslab.github.io/PlatoTalks/ARFIMA-MLM/ObamaEffectNAES_Ex2.html
