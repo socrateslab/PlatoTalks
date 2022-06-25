@@ -39,6 +39,8 @@ setwd('/Users/chengjun/OneDrive - 南京大学/10papers/causal_inference_referen
 
 **问题**：R包fractal已经被CRAN移除。从 https://cran.r-project.org/src/contrib/Archive/fractal 下载**fractal_2.0-4.tar.gz**并放到以上路径下。
 
+Notes: for M1 users https://stackoverflow.com/questions/70881723/problems-installing-r-package-nloptr-on-m1-mac
+
 > install.packages('fractal_2.0-4.tar.gz')
 
 > ERROR: dependencies ‘splus2R’, ‘ifultools’, ‘sapa’, ‘wmtsa’, ‘scatterplot3d’ are not available for package ‘fractal’
