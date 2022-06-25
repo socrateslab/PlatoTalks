@@ -78,3 +78,9 @@ install.packages('wmtsa_2.0-3.tar.gz')
 ```R
 install.packages('fractal_2.0-4.tar.gz')
 ```
+
+7. 与之类似：
+
+```R
+install.packages('fArma_3042.81.tar.gz')
+```
