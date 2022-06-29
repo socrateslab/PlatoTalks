@@ -84,3 +84,7 @@ install.packages('fractal_2.0-4.tar.gz')
 ```R
 install.packages('fArma_3042.81.tar.gz')
 ```
+
+It was removed because some dependencies (e.g., the fractal package) were removed from CRAN. You can install the current dev version via 
+
+devtools::install_github("pwkraft/ArfimaMLM")
