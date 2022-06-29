@@ -29,6 +29,13 @@ A summary of the most recent check results can be obtained from the [check resul
 
 Please use the canonical form [https://CRAN.R-project.org/package=ArfimaMLM](https://cran.r-project.org/package%3DArfimaMLM) to link to this page.
 
+Package ‘ArfimaMLM’ was removed from the CRAN repository because some dependencies (e.g., the fractal package) were removed from CRAN. You can install the current dev version via 
+
+```R
+devtools::install_github("pwkraft/ArfimaMLM")
+```
+
+
 # 解决R包已经被CRAN移除的问题
 
 1. 更改工作路径
@@ -85,8 +92,4 @@ install.packages('fractal_2.0-4.tar.gz')
 install.packages('fArma_3042.81.tar.gz')
 ```
 
-It was removed because some dependencies (e.g., the fractal package) were removed from CRAN. You can install the current dev version via 
 
-```R
-devtools::install_github("pwkraft/ArfimaMLM")
-```
